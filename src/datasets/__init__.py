@@ -1,0 +1,4 @@
+from .flow_pair_detectron_cm import FlowPairCMDetectron
+from .flow_pair_detectron_movi import FlowPairMoviDetectron
+from .flow_pair_detectron_new import FlowPairNewDetectron
+from .kitti_val import KITTI_VAL
